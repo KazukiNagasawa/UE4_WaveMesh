@@ -15,7 +15,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "ProceduralMeshComponent"
+			"Name": "ProceduralMeshComponent",
 			"Enabled": true
 		}
 	]
